@@ -6,15 +6,15 @@ The language in this repo is language to transfer ownership of intellectual prop
 
 The examples assume the use of the LawPatch description clause <a href="https://github.com/lawpatch/lawpatch-docs" target="_blank">here</a>.
 
-### Simple Limitations with LawPatch
+### Simple IP Transfers with LawPatch
 
 Ownership of intellectual property is a technical area.  If you want to draft a transfer, you end up with a lot of formulaic language.  LawPatch allows you to factor the technical language out.  Here's an example of a transfer:
 
-> Provider <a href="" target="_blank">transfers ownership of intellectual property</a> in the Code to Customer.
+> Provider <a href="" target="_blank">transfers ownership of intellectual property rights</a> in the Code to Customer.
 
 Simple.
 
-### Position Parameters
+### Parameters
 
 The language in this repo is *not* language that you can import wholesale with a simple incorporation by reference - it assumes that you have included certain information in the clause that imports it (the `Exception` parameter is optional).
 
@@ -31,6 +31,4 @@ This is not legal advice.  Lawyers are involved in producing these terms, but th
 
 ### Licence
 
-The intellectual property transfer language is released under the license in license.md.
-
-
+The intellectual property transfer language is released under the license in `license.md`.
