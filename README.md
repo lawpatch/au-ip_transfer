@@ -22,7 +22,7 @@ The intellectual property transfer parameters are:
 
 - `Assignor` - The party transferring ownership of the intellectual property;
 - `Assignee` - The party recieving the ownership of the intellectual property; 
-- `Subject` - The intellectual property that is assigned; and
+- `Subject` - The intellectual property that is assigned (the more specific the better); and
 - `Exception` (optional) - An exception to the transfer of ownership.
 
 ### Not Legal Advice
