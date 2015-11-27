@@ -1,7 +1,8 @@
 ## Intellectual Property Rights Transfer
 
-- Assignor assigns all Intellectual Property Rights in the Subject to the Assignee.
-- The Assignor agrees to do all things necessary to give effect to the assignment of Intellectual Property Rights in this clause.
+- Assignor assigns all current and future Intellectual Property Rights in the Subject to the Assignee.
+- Assignor warrants and represents to Assignee that it has the right to transfer the intellectual property rights under this clause.
+- Assignor agrees to do all things necessary to give effect to the assignment of Intellectual Property Rights in this clause.
 - the Assignor warrants that it will obtain any Moral Rights waivers and consents necessary to ensure the other party can deal in the Intellectual Property Rights in the Subject in accordance with this clause without infringing Moral Rights.
 
 ## Definitions
