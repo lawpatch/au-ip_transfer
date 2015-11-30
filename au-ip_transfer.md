@@ -25,7 +25,7 @@ means the exception to the transfer of Intellectual Property Rights.
 ### Intellectual Property Rights
 means [intellectual property rights].
 
-### Moral RIghts
+### Moral Rights
 means the rights commonly referred to as “moral rights”, such as the right of attribution, which are recognised in the jurisdiction of the Agreement.
 
 ### Provision
