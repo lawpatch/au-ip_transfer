@@ -2,7 +2,7 @@
 
 ### Purpose
 
-The language in this repo is language to transfer ownership of intellectual property in **Australian** legal agreements.  You can't use it in deeds because it assigns future intellectual property, which [requires consideration](http://example.comj).
+The language in this repo is language to transfer ownership of intellectual property in **Australian** legal agreements.  You can't use it in deeds because it assigns future intellectual property. To assign something which does not yet exist, like intellectual property that will be created in future, there needs to be [some quid pro quo or 'consideration' for the assignment.](https://jade.barnet.com.au/Jade.html#!article=65687)
 
 The examples assume the use of the LawPatch description clause <a href="https://github.com/lawpatch/lawpatch-docs" target="_blank">here</a>.
 
