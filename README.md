@@ -21,7 +21,7 @@ The language in this repo is *not* language that you can import wholesale with a
 The intellectual property transfer parameters are:
 
 - `Assignor` - The party transferring ownership of the intellectual property;
-- `Assignee` - The party recieving ownership of the intellectual property; 
+- `Assignee` - The party receiving ownership of the intellectual property;
 - `Subject` - The entity containing the intellectual property rights that are to be transferred (the more specific you are in the description the better); and
 - `Exception` (optional) - An exception to the transfer of ownership.
 

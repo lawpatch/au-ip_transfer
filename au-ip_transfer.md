@@ -14,7 +14,7 @@ Defined terms in this document will have the meanings described below.
 means the terms and conditions constituting the agreement that incorporates this document.
 
 ### Assignee
-means the party recieving ownership of the Intellectual Property Rights in the Provision.
+means the party receiving ownership of the Intellectual Property Rights in the Provision.
 
 ### Assignor
 means the party transferring ownership of the Intellectual Property Rights in the Provision.
