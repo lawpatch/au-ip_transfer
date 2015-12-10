@@ -2,13 +2,13 @@
 
 ### Purpose
 
-The language in this repo is language to transfer ownership of intellectual property in **Australian** legal agreements.  You can't use it in deeds because it assigns future intellectual property. To assign something which does not yet exist, like intellectual property that will be created in future, there needs to be [some quid pro quo or 'consideration' for the assignment.](https://jade.barnet.com.au/Jade.html#!article=65687)
+The language in this repo is language to transfer ownership of intellectual property in **Australian** legal agreements.  You can't use it in deeds because it assigns future intellectual property. To assign something that does not yet exist, there needs to be [some quid pro quo or consideration for the assignment.](https://jade.barnet.com.au/Jade.html#!article=65687)
 
 The examples assume the use of the LawPatch description clause <a href="https://github.com/lawpatch/lawpatch-docs" target="_blank">here</a>.
 
 ### Simple IP Transfers with LawPatch
 
-Ownership of intellectual property is a technical area.  If you want to draft a transfer, you end up with a lot of formulaic language.  LawPatch allows you to factor the technical language out.  Here's an example of a transfer:
+Ownership of intellectual property is a technical area.  If you want to draft a transfer, you end up with a lot of formulaic language.  LawPatch allows you to factor the technical language out.  Here's an example of a transfer using the language in this repo:
 
 > Provider <a href="" target="_blank">transfers ownership of intellectual property rights</a> in the Code to Customer.
 
@@ -16,13 +16,13 @@ Simple.
 
 ### Parameters
 
-The language in this repo is *not* language that you can import wholesale with a simple incorporation by reference - it assumes that you have included certain information in the clause that imports it (the `Exception` parameter is optional).
+The language in this repo is *not* language that you can import wholesale with a simple incorporation by reference - it assumes that you have included certain information in the clause that imports it.
 
 The intellectual property transfer parameters are:
 
 - `Assignor` - The party transferring ownership of the intellectual property;
 - `Assignee` - The party recieving the ownership of the intellectual property; 
-- `Subject` - The intellectual property that is assigned (the more specific the better); and
+- `Subject` - The intellectual property that is assigned (the more specific you are in the description the better); and
 - `Exception` (optional) - An exception to the transfer of ownership.
 
 ### Not Legal Advice
