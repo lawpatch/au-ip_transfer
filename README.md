@@ -22,8 +22,14 @@ The intellectual property transfer parameters are:
 
 - `Assignor` - The party transferring ownership of the intellectual property;
 - `Assignee` - The party receiving ownership of the intellectual property;
-- `Subject` - The entity containing the intellectual property rights that are to be transferred (the more specific you are in the description the better); and
+- `Subject` - The entity containing the intellectual property rights that are to be transferred (the more specific you are in the description the better);
+- 'Territorial Restriction' (optional) - The country or countries where the assignment applies; and
 - `Exception` (optional) - An exception to the transfer of ownership.
+ 
+### Territorial Restrictions
+You will see that 'Territorial Restriction' is an optional parameter above. You can transfer intellectual property rights for use in one country without transferring them in other countries. For example, if you want to keep uisng your IP for your business in Germany and France, but you want to transfer the right to use it in Australia permanently to another business, you could transfer the IP to that business but limit the assignment to Australia. The person you transfer to could then, in Australia, use the intellectural property. But in other countries, they cannot. You continue to own the intellectual property in those other countries.  
+
+If you do not specify a territorial restriction, then the transfer applies globally.
 
 ### Not Legal Advice
 
