@@ -23,7 +23,7 @@ The intellectual property transfer parameters are:
 - `Assignor` - The party transferring ownership of the intellectual property;
 - `Assignee` - The party receiving ownership of the intellectual property;
 - `Subject` - The entity containing the intellectual property rights that are to be transferred (the more specific you are in the description the better);
-- 'Territorial Restriction' (optional) - The country or countries where the assignment applies; and
+- `Territory` (optional) - The country or countries where the assignment applies; and
 - `Exception` (optional) - An exception to the transfer of ownership.
  
 ### Territorial Restrictions
