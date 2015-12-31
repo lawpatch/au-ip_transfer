@@ -1,9 +1,10 @@
 ## Intellectual Property Rights Transfer
 
 - Assignor assigns all current and future Intellectual Property Rights in the Subject to the Assignee.
-- Assignor warrants and represents to Assignee that it has the right to transfer the Intellectual Property Rights under this clause.
+- The assignment is global unless the Provision specifies a particular territory or country for the assignment, in which case the assignment applies to that territory or country only.
+- Assignor warrants and represents to Assignee that it has the right to transfer the intellectual property rights under this clause.
 - Assignor agrees to do all things necessary to give effect to the assignment of Intellectual Property Rights in this clause.
-- the Assignor warrants that it will give and obtain any Moral Rights waivers and consents necessary to ensure the other party can deal in the Intellectual Property Rights in the Subject in accordance with this clause without infringing Moral Rights.
+- Assignor warrants that it will give and obtain any Moral Rights waivers and consents necessary to ensure the other party can deal in the Intellectual Property Rights in the Subject in accordance with this clause without infringing Moral Rights.
 - Where there is an Exception, the transfer of Intellectual Property Rights and obligations in relation to Moral Rights in the subclauses above will not apply to the subject of the Exception.
 
 ## Definitions
