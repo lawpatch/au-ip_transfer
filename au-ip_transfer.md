@@ -1,10 +1,10 @@
 ## Intellectual Property Rights Transfer
 
 - Assignor assigns all current and future Intellectual Property Rights in the Subject to the Assignee.
-- The assignment is global unless the Provision specifies a particular territory or country for the assignment, in which case the assignment applies to that territory or country only.
-- Assignor warrants and represents to Assignee that it has the right to transfer the intellectual property rights under this clause.
+- The assignment is global unless the Provision specifies a particular territory for the assignment, in which case the Intellectual Property Rights are assigned in that territory only.
+- Assignor warrants and represents to Assignee that it has the right to transfer the Intellectual Property Rights under this clause.
 - Assignor agrees to do all things necessary to give effect to the assignment of Intellectual Property Rights in this clause.
-- Assignor warrants that it will give and obtain any Moral Rights waivers and consents necessary to ensure the other party can deal in the Intellectual Property Rights in the Subject in accordance with this clause without infringing Moral Rights.
+- Assignor warrants that it will give and obtain any Moral Rights waivers and consents necessary to ensure the Assignee can deal in the Intellectual Property Rights in the Subject in accordance with this clause without infringing Moral Rights.
 - Where there is an Exception, the transfer of Intellectual Property Rights and obligations in relation to Moral Rights in the subclauses above will not apply to the subject of the Exception.
 
 ## Definitions
@@ -38,9 +38,8 @@ means, with the exception of Moral Rights and other inalienable rights, all righ
 - domain name registrations;
 -confidential information, trade secrets, and know how;
 - any other intellectual property as defined in Article 2 of the Convention establishing the World Intellectual Property Organisation of July 1967;
-- any application for the registration of any of the above, and any rights to make such an application;
-- any right to take action to enforce any of the above rights; and
-- any licence from a third party to use any of the above.
+- any application for the registration of any of the above, and any rights to make such an application; and
+- any right to take action to enforce any of the above rights.
 
 ### Moral Rights
 means the rights commonly referred to as “moral rights”, such as the right of attribution, which are recognised in the jurisdiction of the Agreement.
