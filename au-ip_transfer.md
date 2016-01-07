@@ -1,6 +1,6 @@
 ## Intellectual Property Rights Transfer
 
-- Assignor assigns all current and future Intellectual Property Rights in the Subject to the Assignee.
+- Assignor assigns all current and future Intellectual Property Rights in the Subject to Assignee.
 - The assignment is global unless the Provision specifies a particular territory for the assignment, in which case the Intellectual Property Rights are assigned in that territory only.
 - Assignor warrants and represents to Assignee that it has the right to transfer the Intellectual Property Rights under this clause.
 - Assignor agrees to do all things necessary to give effect to the assignment of Intellectual Property Rights in this clause.
@@ -36,7 +36,7 @@ means, with the exception of Moral Rights and other inalienable rights, all righ
 - design rights;
 - plant variety and plant breeder rights;
 - domain name registrations;
--confidential information, trade secrets, and know how;
+- confidential information, trade secrets, and know how;
 - any other intellectual property as defined in Article 2 of the Convention establishing the World Intellectual Property Organisation of July 1967;
 - any application for the registration of any of the above, and any rights to make such an application; and
 - any right to take action to enforce any of the above rights.
