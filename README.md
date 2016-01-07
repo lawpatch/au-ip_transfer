@@ -10,7 +10,7 @@ The example below assumes the use of the LawPatch description clause <a href="ht
 
 Ownership of intellectual property is a technical area.  If you want to draft a transfer, you end up with a lot of formulaic language.  LawPatch allows you to factor the technical language out.  Here's an example of a transfer using the language in this repo:
 
-> Provider <a href="" target="_blank">transfers ownership of intellectual property rights</a> in the Code to Customer.
+> Provider <a href="https://github.com/lawpatch/au-ip_transfer/blob/1e15ef00f430f7ab71f754e1d84d97bda86e2887/au-ip_transfer.md" target="_blank">transfers ownership of intellectual property rights</a> in the Code to Customer.
 
 Simple.
 
@@ -27,9 +27,10 @@ The intellectual property transfer parameters are:
 - `Exception` (optional) - An exception to the transfer of ownership.
  
 ### Territorial Restrictions
-You will see that 'Territorial Restriction' is an optional parameter above. You can transfer intellectual property rights for use in one country without transferring them in other countries. For example, if you want to keep uisng your IP for your business in Germany and France, but you want to transfer the right to use it in Australia permanently to another business, you could transfer the IP to that business but limit the assignment to Australia. The person you transfer to could then, in Australia, use the intellectural property. But in other countries, they cannot. You continue to own the intellectual property in those other countries.  
 
-If you do not specify a territorial restriction, then the transfer applies globally.
+You will see that 'Territory' is an optional parameter above. You can transfer intellectual property rights for use in one country without transferring them in other countries. For example, if you want to keep using your IP for your business in Germany and France, but you want to transfer the right to use it in Australia permanently to another business, you could transfer the IP to that business but limit the assignment to Australia. The person you transfer to could then, in Australia, use the intellectual property, but in other countries, they cannot. You continue to own the intellectual property in those other countries.  
+
+If you do not specify a territorial restriction, then the transfer applies globally by default.
 
 ### Not Legal Advice
 
